@@ -1,0 +1,24 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+div {
+	height: 200px;
+	width: 200px;
+	position: relative;
+}
+.hijo-blue {
+	background-color: blue;
+	position: absolute;
+	left: 200px;
+}
+.hijo-red {
+	background-color: red;
+}
+.hijo-yellow {
+	background-color: yellow;
+}
+.hijo-green{
+	background-color: green;
+}
+
